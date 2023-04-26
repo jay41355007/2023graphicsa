@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682476065 source:c:\users\administrator\desktop\week11\week11_2_keyboard_wav\main.cpp
+	<windows.h>
+	<GL/glut.h>
+
